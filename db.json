@@ -1,0 +1,10 @@
+{
+    "id": 2,
+    "times": 3,
+    "name": "challenge 2",
+    "description": "Compra 3 chocorramos del exito y te regalamos el 4to",
+    "shortTerms": "Si compras 3 chocorramos en el exito antes del Domingo te regalamos el cuarto",
+    "terms": "Cada chocorramo debe realizarse en un pedido diferente durante toda la semana hasta el Domingo 14 de Febrero",
+    "active": true,
+    "createdAt": "2019-02-06T00:30:44.447+0000"
+}
